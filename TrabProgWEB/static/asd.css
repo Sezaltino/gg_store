@@ -1,0 +1,11 @@
+body {
+    background-image:url("\image.png");
+    height: 100vh;
+    display: flex;
+    flex-flow: column;
+  
+    background-size: cover;
+   }
+  
+  
+  
